@@ -76,7 +76,7 @@ SALES PERFORMANCE OVERVIEW
 *Italy and Malaysia follow closely, showing strong international reach.
 *Multiple countries contribute nearly equal order volumes, suggesting geographically diversified demand.
 
-![Image]()
+![Image](https://github.com/user-attachments/assets/f9e27757-6aa6-46a2-8685-d72944139c34>)
 
 2️ Revenue trend over time
 
@@ -85,7 +85,7 @@ SALES PERFORMANCE OVERVIEW
 *The sharp dip (~7.9K) highlights possible issues such as stock shortages, or reduced customer engagement.
 *Overall, the trend suggests sales volatility, emphasizing the need for consistent marketing and demand forecasting.
 
-![Image](https://github.com/user-attachments/assets/192a52e5-81c6-4fae-949a-38faec2ffce6)
+![Image](https://github.com/user-attachments/assets/f18b83f1-6a6a-4255-aa60-114ccbeaa5d3)
 
 3️ Product/category with highest revenue
   
@@ -99,7 +99,7 @@ SALES PERFORMANCE OVERVIEW
   🏠 Home & Appliances
      Vaccum cleaners and table lamps generate the highest revenue in this segment.
 
-![Image](https://github.com/user-attachments/assets/0201381d-e19e-46de-b600-48f3fee628fd)
+![Image](https://github.com/user-attachments/assets/76ca97bd-7deb-4cf3-857b-271768e75f3e)
 
 CUSTOMER BEHAVIOUR ANALYSIS
 
@@ -109,7 +109,7 @@ CUSTOMER BEHAVIOUR ANALYSIS
 * Desktop usage accounts for 44% (44 users), shows a larger portion still relies on larger screens.
 * This split suggests the platform should prioritize mobile-first optimization while maintaining desktop usability.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/8c1cdf07-e66b-4d8c-a8bc-85bfe9d9c7d8)
 
 5 Day with highest number of transactions
 
@@ -118,7 +118,7 @@ CUSTOMER BEHAVIOUR ANALYSIS
 * Mid-week engagement appears stronger than weekends.
 * Customers may shop more during weekdays.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/beae0091-9df4-4588-bc78-cc4e319e1c9c)
 
 6 Quantity by product
 
@@ -127,7 +127,7 @@ CUSTOMER BEHAVIOUR ANALYSIS
 * Electronics has minimal contribution.
 * Electronics and Home categories indicates strong customer preference for utility.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/1caf8c12-5389-4506-8ebf-1236c5759bae)
 
 
 7 Most used payment method
@@ -138,7 +138,7 @@ CUSTOMER BEHAVIOUR ANALYSIS
 * Credit Card usage is slightly lower but still significant.
 * Overall, customers show a strong preference for cashless and digital payment options.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/7a125cf9-ed20-4696-81c1-ca9c7d6ec8b5)
 
 DISCOUNT AND PRICING ANALYSIS
 
@@ -155,7 +155,7 @@ DISCOUNT AND PRICING ANALYSIS
    Vacuum cleaners (58) and Table lamp (52) receive relatively higher discounts.
    Toasters (18) receive lower discounts, suggesting steady demand without heavy promotions.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/063c6d56-000e-4cca-b7b6-5998b5ddfdea)
    
 
 9 Average discount by device type
@@ -163,7 +163,7 @@ DISCOUNT AND PRICING ANALYSIS
 * Mobile users receive higher average discounts (44.9) compared to desktop users.
 * Desktop users account for (33.69) of the average discount share.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/b65a92b0-ba13-4b64-b923-7758726a3831)
 
 
 
@@ -177,7 +177,7 @@ OPERATIONAL AND CUSTOMER FEEDBACKS
 * Several products such as Jeans, Magazine, Non-fiction Books, Shoes, Smartphone, and T-Shirt record minimal negative feedback (1 each).
 * This indicates that specific products contribute disproportionately to customer dissatisfaction, highlighting priority areas for quality or expectation management improvements.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/a86b4570-694b-4dea-b297-754b208b2deb)
 
 
 11 Delivery status distribution
@@ -187,7 +187,7 @@ OPERATIONAL AND CUSTOMER FEEDBACKS
 * Cancelled orders represent 25%, indicating a notable level of order drop-off before completion.
 * Returned orders (14.3%) show post-delivery dissatisfaction or mismatch with customer expectations.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/474a953c-4313-49c6-b038-94a199d2a722)
 
 
 12 Feedbacks by product/category
@@ -203,7 +203,70 @@ OPERATIONAL AND CUSTOMER FEEDBACKS
 📱 Electronics
    High Average and Good feedback, but also 7 Poor feedback entries, indicating mixed customer experiences.
 
-![Image](https://github.com/user-attachments/assets/ba137432-833b-4c6c-94a9-fc4748f8cbc9)
+![Image](https://github.com/user-attachments/assets/a7361d2a-a83c-4552-bb14-e0cc50892590)
+
+
+## 4.Insights and Report :
+
+
+* Sudan records the highest order volume, indicating strong regional demand. Italy and Malaysia follow closely, reflecting the platform’s growing international reach. The relatively even
+  distribution across multiple countries suggests diversified geographic demand, reducing dependency on a single market.
+
+* Revenue trends fluctuate significantly across weeks, highlighting inconsistent sales performance. A sharp revenue peak (~23K) suggests the impact of promotions, campaigns, or seasonal demand, while the           noticeable dip (~7.9K) indicates possible stock shortages or reduced customer engagement. This volatility emphasizes the need for stable demand-generation strategies.
+
+* Electronics and Home & Appliances emerge as the strongest revenue-generating categories, driven by high-value products such as headphones, laptops, vacuum cleaners, and table lamps. Books and Fashion
+  contribute moderate revenue, supporting volume but at lower margins.
+
+* Most customers shop using mobile devices (56%), while desktops are still used by a large group (44%), especially for detailed or high-value purchases. This shows the platform should work smoothly on both         mobile and desktop.
+
+* Wednesday records the highest number of transactions, with a gradual decline toward weekends. This pattern indicates stronger weekday shopping behaviour, possibly influenced by work-week browsing habits and      mid-week promotions.
+
+* Electronics and Home products are sold the most, showing high customer demand. Books and Fashion have steady but lower sales, helping maintain product variety and customer interest.
+
+* Most customers prefer paying by debit card, followed by Net Banking and UPI. Cash on Delivery is still used by some customers. Overall, customers are comfortable with digital payment  methods.
+
+* Discounts are heavily concentrated in Fashion (especially Jeans) and selected Home products.
+  Mobile users get higher discounts than desktop users, which helps increase mobile sales and app usage.
+
+* A large proportion of orders remain “In Transit,” along with notable cancellation and return rates. This indicates inefficiencies in fulfilment cycles and delivery timelines, directly
+  impacting customer satisfaction.
+
+* Products such as Smartwatches, Vacuum Cleaners, and Table Lamps receive the highest negative feedback, while Home and Electronics categories show elevated “Poor” ratings despite strong sales. This highlights   a gap between sales performance and customer experience, possibly driven by quality, durability, or expectation mismatches.
+
+
+# Overall Conclusion:
+
+  This e-commerce analytics project provides a clear understanding of how customers interact with the platform, which products drive revenue, and where operational gaps exist. The analysis shows that Electronics   and Home categories are the main growth drivers, supported by a strong shift toward mobile shopping and digital payments. However, fluctuations in revenue, heavy reliance on discounts, and delivery-related       issues highlight areas that require immediate attention.
+     By combining sales, customer behaviour, pricing, and feedback analysis into a single dashboard, the project enables data-driven decision-making to improve profitability, operational efficiency, and customer   satisfaction. The insights generated can directly support strategic planning, marketing optimization, and service quality improvement.
+
+
+# Final Recommendations:
+
+✅ Stabilize Revenue Performance
+Run regular marketing campaigns and plan demand better to reduce weekly sales fluctuations and reliance on short-term offers.
+
+✅ Strengthen Mobile Experience
+Improve the mobile shopping experience while keeping the desktop version smooth for high-value purchases, so overall sales increase.
+
+✅ Optimize Discount Strategy
+Reduce heavy discounts on Fashion and Home products so sales increase without hurting profits.
+
+✅ Improve Operational Efficiency
+Speed up deliveries and reduce cancellations by improving logistics and order tracking.
+
+✅ Enhance Product Quality Control
+Improve quality checks for products that receive more negative feedback, especially in Home and Electronics.
+
+✅ Leverage Mid-Week Demand
+Run more offers and promotions on high-activity days like Wednesdays to boost sales.
+
+✅ Strengthen Customer Feedback Loop
+Collect and use customer feedback to fix issues and increase repeat purchases.
+
+
+
+
+
 
 
 
