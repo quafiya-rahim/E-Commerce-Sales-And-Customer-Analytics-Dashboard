@@ -73,17 +73,22 @@ SALES PERFORMANCE OVERVIEW
 1️ Top countries for orders
 
 * Sudan leads in order count, indicating the highest demand from this region.
-*Italy and Malaysia follow closely, showing strong international reach.
-*Multiple countries contribute nearly equal order volumes, suggesting geographically diversified demand.
 
-![Image](https://github.com/user-attachments/assets/f9e27757-6aa6-46a2-8685-d72944139c34>)
+* Italy and Malaysia follow closely, showing strong international reach.
+
+* Multiple countries contribute nearly equal order volumes, suggesting geographically diversified demand.
+
+![Image](https://github.com/user-attachments/assets/24699402-e84d-46d9-a83f-fcf4f02d8821)
 
 2️ Revenue trend over time
 
-*Revenue shows fluctuating trends across weeks, indicating inconsistent sales performance.
-*A peak revenue of ~23K suggests successful campaigns, promotions, or seasonal demand during that period.
-*The sharp dip (~7.9K) highlights possible issues such as stock shortages, or reduced customer engagement.
-*Overall, the trend suggests sales volatility, emphasizing the need for consistent marketing and demand forecasting.
+* Revenue shows fluctuating trends across weeks, indicating inconsistent sales performance.
+
+* A peak revenue of ~23K suggests successful campaigns, promotions, or seasonal demand during that period.
+
+* The sharp dip (~7.9K) highlights possible issues such as stock shortages, or reduced customer engagement.
+
+* Overall, the trend suggests sales volatility, emphasizing the need for consistent marketing and demand forecasting.
 
 ![Image](https://github.com/user-attachments/assets/f18b83f1-6a6a-4255-aa60-114ccbeaa5d3)
 
@@ -91,11 +96,14 @@ SALES PERFORMANCE OVERVIEW
   
   📚 Books
       Magazines, comics and non-fiction generate moderate revenue, indicating stable but lower-margin sales.
+  
   📱 Electronics
       Headphones, laptops, and smart phones contribute significantly to revenue.
       Electronics emerge as high-value and high-demand categories, making them key revenue drivers.
+  
   👗 Fashion
      Jackets and Jeans perform better than other fashion items.
+  
   🏠 Home & Appliances
      Vaccum cleaners and table lamps generate the highest revenue in this segment.
 
@@ -106,16 +114,22 @@ CUSTOMER BEHAVIOUR ANALYSIS
 4 Most used device type
 
 * Mobile devices dominate usage with 56% (56 users), indicating that a majority of customers prefer shopping on mobile.
+
 * Desktop usage accounts for 44% (44 users), shows a larger portion still relies on larger screens.
+
 * This split suggests the platform should prioritize mobile-first optimization while maintaining desktop usability.
 
 ![Image](https://github.com/user-attachments/assets/8c1cdf07-e66b-4d8c-a8bc-85bfe9d9c7d8)
 
 5 Day with highest number of transactions
 
+
 * Wednesday records the highest number of transactions (19), making it the most active shopping day.
+
 * Transaction volume declines toward the weekend, with Saturday and Sunday at 12 transactions each.
+
 * Mid-week engagement appears stronger than weekends.
+
 * Customers may shop more during weekdays.
 
 ![Image](https://github.com/user-attachments/assets/beae0091-9df4-4588-bc78-cc4e319e1c9c)
@@ -123,8 +137,11 @@ CUSTOMER BEHAVIOUR ANALYSIS
 6 Quantity by product
 
 * Electronics (87 units) and Home (81 units) are the highest-selling categories by quantity.
+
 * Books (61 units) and Fashion (57 units) show consistent but moderate demand.
+
 * Electronics has minimal contribution.
+
 * Electronics and Home categories indicates strong customer preference for utility.
 
 ![Image](https://github.com/user-attachments/assets/1caf8c12-5389-4506-8ebf-1236c5759bae)
@@ -133,9 +150,13 @@ CUSTOMER BEHAVIOUR ANALYSIS
 7 Most used payment method
 
 * Debit Card is the most preferred payment method.
+
 * Net Banking and UPI (20 transactions each) closely follow, indicating strong adoption of digital payments.
+
 * Cash on Delivery (19 transactions) remains relevant, reflecting trust-building needs in e-commerce.
+
 * Credit Card usage is slightly lower but still significant.
+
 * Overall, customers show a strong preference for cashless and digital payment options.
 
 ![Image](https://github.com/user-attachments/assets/7a125cf9-ed20-4696-81c1-ca9c7d6ec8b5)
@@ -146,11 +167,14 @@ DISCOUNT AND PRICING ANALYSIS
 
 📚 Books
    Magazines (50) receive higher average discounts compared to Comics and non-fiction.
+
 📱 Electronics
    Smartwatches (35) and Laptops (18) receive lower discount compared to Headphones.
+
 👗 Fashion
    Jeans receive the highest average discount (130) across all categories.
    Jackets (6) have minimal discounts.
+
 🏠 Home 
    Vacuum cleaners (58) and Table lamp (52) receive relatively higher discounts.
    Toasters (18) receive lower discounts, suggesting steady demand without heavy promotions.
@@ -161,6 +185,7 @@ DISCOUNT AND PRICING ANALYSIS
 9 Average discount by device type
 
 * Mobile users receive higher average discounts (44.9) compared to desktop users.
+
 * Desktop users account for (33.69) of the average discount share.
 
 ![Image](https://github.com/user-attachments/assets/b65a92b0-ba13-4b64-b923-7758726a3831)
@@ -172,9 +197,13 @@ OPERATIONAL AND CUSTOMER FEEDBACKS
 10 Negative feedback by product
 
 * Smartwatch, Table Lamp, and Vacuum Cleaner receive the highest number of negative feedback.
+
 * Jackets also show relatively high dissatisfaction compared to other products.
+
 * Products like Comics, Headphones, and Toaster (2 each) show moderate negative feedback.
+
 * Several products such as Jeans, Magazine, Non-fiction Books, Shoes, Smartphone, and T-Shirt record minimal negative feedback (1 each).
+
 * This indicates that specific products contribute disproportionately to customer dissatisfaction, highlighting priority areas for quality or expectation management improvements.
 
 ![Image](https://github.com/user-attachments/assets/a86b4570-694b-4dea-b297-754b208b2deb)
@@ -183,8 +212,11 @@ OPERATIONAL AND CUSTOMER FEEDBACKS
 11 Delivery status distribution
 
 * In Transit orders account for the largest share (32.1%), suggesting delays or longer fulfilment cycles.
+
 * Delivered orders (28.6%) form a significant portion, but not the majority.
+
 * Cancelled orders represent 25%, indicating a notable level of order drop-off before completion.
+
 * Returned orders (14.3%) show post-delivery dissatisfaction or mismatch with customer expectations.
 
 ![Image](https://github.com/user-attachments/assets/474a953c-4313-49c6-b038-94a199d2a722)
@@ -195,11 +227,14 @@ OPERATIONAL AND CUSTOMER FEEDBACKS
 📚 Books
    Majority of feedback falls under Excellent (5) and No Feedback (6).
    Poor feedback (4) indicates room for improvement in content quality or delivery expectations.
+
 👗 Fashion
    Fashion shows balanced feedback distribution, with notable Poor feedback (6).
+
 🏠 Home
    Highest number of Poor feedback (10) among all categories.
    Despite strong sales, this suggests product performance or durability issues.
+
 📱 Electronics
    High Average and Good feedback, but also 7 Poor feedback entries, indicating mixed customer experiences.
 
